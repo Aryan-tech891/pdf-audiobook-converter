@@ -1,0 +1,13 @@
+# Generated audio
+audio_out/
+mp3_out/
+*.wav
+*.mp3
+audiobook.mp3
+mp3_list.txt
+
+# Input files
+book.pdf
+
+# Python
+__pycache__/
